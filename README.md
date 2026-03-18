@@ -1,2 +1,2 @@
 # Property-Management-System
-Full-stack PHP/MySQL property management portal with dual admin and renter portals
+Full-stack property management platform enabling landlords to manage tenants, payments, and communications through dual admin/renter portals
